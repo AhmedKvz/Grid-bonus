@@ -84,6 +84,8 @@ main {
     "card1 card1 card2 card3"
     "card4 card5 card5 card3";
     grid-gap: 10px 20px;
+    padding-left: 8%;
+    padding-right: 5%;
 }
 
 
@@ -95,6 +97,7 @@ main {
     background-repeat: no-repeat;
     background-position-x: 85%;
     box-shadow: 14px 40px 40px hsla(0, 0%, 0%, 0.1);
+    
     
 }
 
@@ -171,7 +174,6 @@ main {
        "card4"
        "card5"
        "card3";
-    width: 330px;
   }  
   main {
       align-items: flex-start;
@@ -188,11 +190,9 @@ main {
                    "card4 card4"
                    "card5 card5"
                    "card3 card3"; 
-    width: 640px;               
+    width: 100%;               
 } 
-     .card-container {
-        margin-top: px;
-    } 
+     
     main {
         align-items: flex-start;
     }
