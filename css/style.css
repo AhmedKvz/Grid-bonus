@@ -173,7 +173,7 @@ main {
        "card4"
        "card5"
        "card3";
-    
+    width: 330px;
   }  
   main {
       align-items: flex-start;
