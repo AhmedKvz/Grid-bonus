@@ -47,9 +47,7 @@ main {
     opacity: 70%;
 }
 
-.mt {
-    margin-top: 10px;
-}
+
 
 .h1-white {
     color: white;
@@ -190,7 +188,7 @@ main {
                    "card4 card4"
                    "card5 card5"
                    "card3 card3"; 
-                   
+    width: 640px;               
 } 
      .card-container {
         margin-top: px;
